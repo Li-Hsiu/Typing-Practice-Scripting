@@ -14,8 +14,7 @@ Constants include: the windowName of browser's tab, the coordinate and dimension
 Utilize adjust.py to adjust the constants' values to achieve a desirable environment.
 A proper screenshot should include only the text area. Example below.
 
-<img src="https://github.com/Li-Hsiu/Typing-Practice-Scripting/assets/114332175/07741be8-5b33-442b-869a-5ed9f97e687d" width="500" height="120">
+<img src="https://github.com/Li-Hsiu/Typing-Practice-Scripting/assets/114332175/45512c28-b876-422b-9d5e-d186da709111" width="500" height="120">
 
 See the output text in the console, should be in format shown below.
 Price-Period-Slipped-Passions-Practical-Particularly-Distemper-Power-Corpse-Express-Supported-Spared-Approaching-Public-Whispered-Spot-Pursue-Pace-Hopes-Applied-Posture-Provisions-Friendship-Practice-Pass-Portion-Suspended-Perfect
-
